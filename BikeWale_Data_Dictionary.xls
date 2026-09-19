@@ -1,0 +1,12 @@
+Column Name,Description
+Bike Name,Name of the bike
+Rating,Bike rating out of 5
+Ratings Count,Number of user ratings
+Engine CC,Engine capacity in CC
+Mileage (kmpl),Mileage in kmpl
+Power (bhp),Power in bhp
+Weight (kg),Bike weight in kg
+Price (₹),Bike price in rupees
+Value Score,Project-defined value score
+Popularity Score,Project-defined popularity score
+Price per BHP,Price divided by power in bhp
