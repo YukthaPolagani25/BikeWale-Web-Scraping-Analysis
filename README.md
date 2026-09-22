@@ -62,6 +62,12 @@ The final cleaned dataset contains **30 bike records** with features such as:
 9. Business Insights
 10. Recommendations
 
+## Power BI Dashboard Preview
+
+The interactive Power BI dashboard provides an overview of bike prices, ratings, mileage, engine capacity, power and price ranges.
+
+![BikeWale Power BI Dashboard](dashboard_screenshot.png)
+
 ## Power BI Dashboard
 
 The Power BI dashboard provides interactive analysis of:
